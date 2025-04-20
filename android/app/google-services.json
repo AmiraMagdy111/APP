@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653556710549",
+    "project_id": "firstproj-738ac",
+    "storage_bucket": "firstproj-738ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653556710549:android:edccbd53e26a45e1602f9c",
+        "android_client_info": {
+          "package_name": "com.FIRSTPROJ.factorymonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDNT0xODXEcYTSiF4NmSPtK15FH1M0UB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
